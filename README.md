@@ -3,9 +3,6 @@ wifly_xively
 Sending data from AI2 to Xively with Wifly RN-XV (wifly shield) connected to Stalker board
 
 ##Libraries
-WiflyHQ
-https://github.com/harlequin-tech/WiFlyHQ
-
 Xively API
 https://github.com/xively/xively_arduino
 
